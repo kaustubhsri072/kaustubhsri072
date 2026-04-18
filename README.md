@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaustubhsri072
+- 👋 Hi, I’m Kaustubh Srikantapuram
 - 👀 I’m interested in CS, tech, gaming, football
 - 🌱 I’m currently learning CS in college
 - ⚡ Fun fact: My favorite football team is the Seattle Seahawks
